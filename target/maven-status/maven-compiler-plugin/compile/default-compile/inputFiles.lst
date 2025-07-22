@@ -13,10 +13,12 @@ C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\jav
 C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\GUDANG\Panel_Gudang.java
 C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\Logic_Login.java
 C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\Panel_Login.java
+C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PEMILIK\Logic_DataKeuangan.java
+C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PEMILIK\Logic_ManajemenPegawai.java
 C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PEMILIK\Logic_Pemilik.java
-C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PEMILIK\Panel_DaftarPesananMasuk.java
+C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PEMILIK\Panel_DataKeuangan.java
+C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PEMILIK\Panel_ManajemenPegawai.java
 C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PEMILIK\Panel_Pemilik.java
-C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PEMILIK\Panel_ProsesProduksi.java
 C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PRODUKSI\Logic_DaftarPesananMasuk.java
 C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PRODUKSI\Logic_Produksi.java
 C:\kuliah\Semester 4\Pemrograman Berorientasi Object II\UAS_PBO2_V4\src\main\java\com\dikdik\uas_pbo2_v4\PRODUKSI\Logic_ProsesProduksi.java

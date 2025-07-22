@@ -9,7 +9,7 @@ public class Panel_Pemilik extends JPanel {
 
     private JButton activeButton = null;
 
-    public JButton btnDashboard, btnKeuangan, btnPegawai, btnAkun, btnLogout;
+    public JButton btnDashboard, btnKeuangan, btnPegawai, btnLogout;
 
     public Panel_Pemilik(String username) {
         setLayout(new BorderLayout());
@@ -29,9 +29,8 @@ public class Panel_Pemilik extends JPanel {
         btnDashboard = new JButton("Dashboard");
         btnKeuangan  = new JButton("Data Keuangan");
         btnPegawai   = new JButton("Data Pegawai");
-        btnAkun      = new JButton("Buat Akun");
 
-        JButton[] menuButtons = {btnDashboard, btnKeuangan, btnPegawai, btnAkun};
+        JButton[] menuButtons = {btnDashboard, btnKeuangan, btnPegawai};
         for (JButton btn : menuButtons) {
             btn.setBackground(new Color(0, 102, 204));
             btn.setForeground(Color.WHITE);
@@ -80,14 +79,12 @@ public class Panel_Pemilik extends JPanel {
         contentPanel.setBackground(Color.WHITE);
 
         contentPanel.add(panelWithText("Selamat Datang, " + username + "!"), "Dashboard");
-        contentPanel.add(panelWithText("Ini halaman Data Keuangan"), "Data Keuangan");
-        contentPanel.add(panelWithText("Ini halaman Data Pegawai"), "Data Pegawai");
-        contentPanel.add(panelWithText("Ini halaman Buat Akun Pengguna"), "Buat Akun");
+        contentPanel.add(new Logic_DataKeuangan().getPanel(), "Data Keuangan");
+        contentPanel.add(new Logic_ManajemenPegawai().getPanel(), "Data Pegawai");
 
         add(menuPanel, BorderLayout.WEST);
         add(contentPanel, BorderLayout.CENTER);
 
-        // Aktifkan Dashboard saat awal
         btnDashboard.doClick();
     }
 

@@ -1,10 +1,10 @@
 com\dikdik\uas_pbo2_v4\ADMIN\Panel_DataPelanggan.class
 com\dikdik\uas_pbo2_v4\UAS_PBO2_V4.class
 com\dikdik\uas_pbo2_v4\ADMIN\Panel_DataPesanan$1.class
+com\dikdik\uas_pbo2_v4\PEMILIK\Logic_ManajemenPegawai$1.class
 com\dikdik\uas_pbo2_v4\ADMIN\Panel_DataPelanggan$1.class
 com\dikdik\uas_pbo2_v4\ADMIN\Panel_TambahPesanan.class
 com\dikdik\uas_pbo2_v4\PRODUKSI\Panel_ProsesProduksi.class
-com\dikdik\uas_pbo2_v4\PEMILIK\Panel_ProsesProduksi.class
 com\dikdik\uas_pbo2_v4\Logic_Login$1.class
 com\dikdik\uas_pbo2_v4\ADMIN\Logic_DataPesanan.class
 com\dikdik\uas_pbo2_v4\PRODUKSI\Logic_DaftarPesananMasuk.class
@@ -17,10 +17,14 @@ com\dikdik\uas_pbo2_v4\GUDANG\Logic_DataStok.class
 com\dikdik\uas_pbo2_v4\ADMIN\Logic_TambahPesanan.class
 com\dikdik\uas_pbo2_v4\DBConnection.class
 com\dikdik\uas_pbo2_v4\PRODUKSI\Logic_ProsesProduksi.class
+com\dikdik\uas_pbo2_v4\PEMILIK\Panel_DataKeuangan.class
+com\dikdik\uas_pbo2_v4\PEMILIK\Panel_ManajemenPegawai.class
 com\dikdik\uas_pbo2_v4\Logic_Login.class
+com\dikdik\uas_pbo2_v4\PEMILIK\Logic_ManajemenPegawai.class
 com\dikdik\uas_pbo2_v4\ADMIN\Panel_DataPesanan$2.class
 com\dikdik\uas_pbo2_v4\PEMILIK\Panel_Pemilik.class
 com\dikdik\uas_pbo2_v4\PRODUKSI\Panel_Produksi.class
+com\dikdik\uas_pbo2_v4\PEMILIK\Logic_DataKeuangan.class
 com\dikdik\uas_pbo2_v4\GUDANG\Panel_Gudang.class
 com\dikdik\uas_pbo2_v4\GUDANG\Logic_Gudang.class
 com\dikdik\uas_pbo2_v4\PRODUKSI\Logic_Produksi.class
